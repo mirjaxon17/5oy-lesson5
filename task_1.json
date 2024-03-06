@@ -1,0 +1,21 @@
+{
+   "courses":
+        [
+            {
+                "names": "python",
+                "price": 45
+            }, 
+            {
+                "names": "c++",
+                "price": 54
+            }, 
+            {
+                "names": "java",
+                "price": 65
+            },
+            {
+                "names": "Rust",
+                "price": 32
+            }
+        ]
+  }
